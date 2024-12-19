@@ -1,8 +1,5 @@
-# Rime dictionary: wubi86
+# Rime dictionary: flypy
 # encoding: utf-8
-# license: GPLv3
-# derived from https://github.com/acevery/ibus-table-wubi
-
 ---
 name: flypy
 version: "2024.12.06"
